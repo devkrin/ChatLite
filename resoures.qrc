@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/110.png</file>
+        <file>icons/toolMoreBtn.png</file>
+    </qresource>
+</RCC>

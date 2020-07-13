@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon-"/>
+    <qresource prefix="/">
+        <file>icons/toolMoreBtn.png</file>
+        <file>assets/110.png</file>
+        <file>icons/media-file.png</file>
+        <file>icons/maindialog-close.png</file>
+        <file>imgs/media-bgd.png</file>
+        <file>icons/media-emoji.png</file>
+        <file>icons/media-dialog-close.png</file>
+        <file>icons/media-phone.png</file>
+        <file>icons/media-categories.png</file>
+        <file>icons/media-history.png</file>
+        <file>imgs/chat-bdg.png</file>
+        <file>imgs/profile-bdg.png</file>
+        <file>imgs/sendBtn-bgd.png</file>
+        <file>icons/maindialog-icon.png</file>
+        <file>imgs/inform-bdg.png</file>
+        <file>icons/inform-icon.png</file>
+        <file>icons/setting.png</file>
+        <file>imgs/media-send-btn-bdg.png</file>
+        <file>imgs/history-bgd.png</file>
+    </qresource>
+</RCC>
